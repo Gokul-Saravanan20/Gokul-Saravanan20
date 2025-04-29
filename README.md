@@ -1,8 +1,8 @@
 
 ## Hi there 👋 It's me Gokul Saravanan
 
-Fresher
-                                            
+### Fresher
+- 🔭 Here's my [portfolio](https://sites.google.com/view/parthasarathy-ak/home)                                                                                 
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gokul-saravanan758/)
